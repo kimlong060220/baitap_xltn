@@ -1,4 +1,5 @@
 ## Bài tập 2: Nhận dạng từ/khẩu lệnh đơn lẻ
+### Lê Kim Long_18020852 
 ### Các file cài đặt được
 1. Phần tiền xử lý dữ liệu thành các file đơn lẻ cho từng nhãn: [Split_file.ipynb](./Split_file.ipynb)
 1. Phần cài đặt cho MFCC [MFCC.ipynb](./MFCC.ipynb)
